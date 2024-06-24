@@ -1,0 +1,20 @@
+.month-toolbar {
+    display: flex;
+    background: lightblue;
+    position: absolute;
+    bottom: 0px;
+    width: 100%
+
+}
+
+.month-tab {
+    float: left;
+    color: darkblue;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.month-tab:hover {
+    cursor: pointer;
+    background-color: azure;
+}
